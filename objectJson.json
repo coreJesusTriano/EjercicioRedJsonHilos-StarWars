@@ -1,0 +1,25 @@
+	{
+		"string": "Hola",
+		"number": "2",
+		"object": {
+			"string": "Hola",
+			"number": 2
+		},
+		"boolean": true,
+		"null": null,
+		"array1": [1, true, "Hola"],
+		"array2": [
+		           {
+		        	   "string": "a",
+		        	   "number": 1
+		           },
+		           {
+		        	   "string": "b",
+		        	   "number": 2
+		           },
+		           {
+		        	   "string": "c",
+		        	   "number": 3
+		           }
+           ]
+	}
